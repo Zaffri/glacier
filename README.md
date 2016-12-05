@@ -1,7 +1,7 @@
 # Glacier Theme
 
 ### About
-Glacier is a theme based on dark monokai which was edited using tmTheme edited and finally packaged into a visual studio code theme using yeoman's yo code.
+Glacier is a theme based on dark monokai which was edited using tmTheme editor and finally packaged into a visual studio code theme using yeoman's yo code.
 
 ![Glacier theme screenshot](/Screenshots/screenshot.JPG?raw=true "Glacier")
 
