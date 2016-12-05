@@ -1,0 +1,22 @@
+{
+    "name": "theme-glacier",
+    "displayName": "Glacier",
+    "description": "glaciestyle code themer",
+    "version": "0.0.1",
+    "publisher": "StevenMorrison",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Glacier",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Glacier.tmTheme"
+            }
+        ]
+    }
+}
