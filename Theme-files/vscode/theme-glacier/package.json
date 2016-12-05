@@ -1,9 +1,9 @@
 {
     "name": "theme-glacier",
     "displayName": "Glacier",
-    "description": "glaciestyle code themer",
+    "description": "glacier style theme for visual studio code",
     "version": "0.0.1",
-    "publisher": "StevenMorrison",
+    "publisher": "Steven Morrison",
     "engines": {
         "vscode": "^1.5.0"
     },
