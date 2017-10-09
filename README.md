@@ -9,9 +9,9 @@ Glacier is a theme based on dark monokai which was edited using tmTheme editor a
 
 **VS Code**
 * Paste the glacier version theme folder of your choosing into your VS Code extension folder;
-(eg. theme-glacier-v1 - location: ./Versions)
+(eg. theme-glacier-v1 - location: ./versions)
 
-For Windows %USERPROFILE%\.vscode\extensions.
+For Windows %USERPROFILE%\\.vscode\extensions.
 For Mac/Linux $HOME/.vscode/extensions.
 
 * Restart Visual Studio Code.
